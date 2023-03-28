@@ -1,9 +1,10 @@
 footer {
   background: var(--color-primary);
-  padding: 3rem 0;
+  padding: 1.5rem 0;
   text-align: center;
   font-size: 0.9rem;
   margin-top: 7rem;
+  font-family: 'inter', sans-serif;
 }
 
 footer a {
@@ -12,6 +13,7 @@ footer a {
 
 footer ul li i {
   margin-left: 0.5rem;
+  font-size: 1.3rem;
 }
 
 .footer-logo {
@@ -32,17 +34,22 @@ footer ul li i {
 .footer-social {
   display: flex;
   justify-content: center;
-  gap: 1rem;
+  gap: 1.5rem;
   margin-bottom: 4rem;
+  transition: var(--transition);
 }
 
 .footer-social a {
   background: var(--color-bg);
   color: var(--color-white);
-  padding: 0.8rem;
+  padding: 0.7rem;
   border-radius: 0.7rem;
   display: flex;
   border: 1px solid transparent;
+}
+
+.footer-social i {
+  font-size: 1.2rem;
 }
 
 .footer-social a:hover {
@@ -52,7 +59,7 @@ footer ul li i {
 }
 
 .footer-copyright {
-  margin-bottom: 4rem;
+  margin-bottom: 1rem;
   color: var(--color-bg);
   font-size: 1rem;
 }

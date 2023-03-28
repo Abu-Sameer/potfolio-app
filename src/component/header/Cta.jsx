@@ -7,7 +7,15 @@ export default function Cta() {
       <a href={CV} download className="btn">
         Download CV
       </a>
-      <a href="#contact" className="btn btn-primary">
+      <a
+        href="https://ayaweb.netlify.app"
+        className="btn btn-primary"
+        target="_blank"
+        rel="noreferrer"
+      >
+        MyBio
+      </a>
+      <a href="#contact" className="btn">
         Let's Talk
       </a>
     </div>

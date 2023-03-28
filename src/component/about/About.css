@@ -103,4 +103,8 @@
   .about-content p {
     margin: 1.5rem 0;
   }
+
+  .about-me-image:active {
+    transform: rotate(0);
+  }
 }

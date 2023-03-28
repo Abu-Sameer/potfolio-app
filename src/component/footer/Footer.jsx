@@ -4,8 +4,9 @@ import './Footer.css';
 export default function Footer() {
   return (
     <footer>
-      <a href="#h" className="footer-logo">
-        Adesoye
+      <a href="#home" className="footer-logo">
+        Adesoye Yusuf Abolaji <br />
+        (Abu-Sameer)
       </a>
       <ul className="permalinks">
         <li>
@@ -21,7 +22,7 @@ export default function Footer() {
         </li>
         <li>
           <a href="#service">Services</a>{' '}
-          <i className="fa-solid fa-screwdriver-wrench"></i>
+          <i class="fa-solid fa-network-wired"></i>
         </li>
         <li>
           <a href="#portfolio">Portfolio</a>
@@ -38,13 +39,13 @@ export default function Footer() {
       </ul>
 
       <div className="footer-social">
-        <a href="https://facebook.com">
+        <a href="https://facebook.com" target="_blank" rel="noreferrer">
           <i className="fa-brands fa-square-facebook"></i>
         </a>
-        <a href="https://github.com">
+        <a href="https://github.com" target="_blank" rel="noreferrer">
           <i className="fa-brands fa-github"></i>
         </a>
-        <a href="https://tweeter.com">
+        <a href="https://twitter.com" target="_blank" rel="noreferrer">
           <i className="fa-brands fa-twitter"></i>
         </a>
       </div>

@@ -31,7 +31,7 @@ export default function Contact() {
             <h4>Email</h4>
             <h5>adesoyeabolajiyusuph@gmail</h5>
             <a
-              href="#mailto:adesoyeabolajiyusuph@gmail.com"
+              href="mailto:adesoyeabolajiyusuph@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
@@ -43,7 +43,7 @@ export default function Contact() {
             <h4>Messenger</h4>
             <h5>Adesoyeabusameer</h5>
             <a
-              href="#https://m.me/Adesoyeabumahrosh/"
+              href="https://m.me/Adesoyeabumahrosh/"
               target="_blank"
               rel="noreferrer"
             >
@@ -55,7 +55,7 @@ export default function Contact() {
             <h4>WhatsApp</h4>
             <h5>814-0534-229</h5>
             <a
-              href="#https://wa.me/08140534229"
+              href="https://wa.me/08140534229"
               target="_blank"
               rel="noreferrer"
             >

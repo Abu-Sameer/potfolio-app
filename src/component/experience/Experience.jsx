@@ -4,7 +4,7 @@ import './Experience.css';
 export default function Experience() {
   return (
     <section id="experience">
-      <h5>WHat Skills I Have</h5>
+      <h5>What Skills Did I Have</h5>
       <h2>My Experience</h2>
 
       <div className="container experience-container">

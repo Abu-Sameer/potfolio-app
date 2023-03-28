@@ -1,5 +1,5 @@
 header {
-  height: 100vh;
+  height: 130vh;
   padding-top: 2rem;
   overflow: hidden;
 }
@@ -25,6 +25,10 @@ header {
   position: absolute;
   left: 0;
   bottom: 3rem;
+}
+
+.header_social a i {
+  font-size: 1.5rem;
 }
 
 .header_social::after {
@@ -77,5 +81,11 @@ header {
   .header_social,
   .scroll_down {
     display: none;
+  }
+
+  .cta .btn {
+    padding: 0.7rem 1.2rem;
+    font-size: 0.7rem;
+    font-weight: bold;
   }
 }

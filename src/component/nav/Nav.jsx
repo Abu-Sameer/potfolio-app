@@ -31,7 +31,21 @@ export default function Nav() {
         onClick={() => setActive('#service')}
         className={active === '#service' ? 'active' : ''}
       >
-        <i className="fa-solid fa-screwdriver-wrench"></i>
+        <i class="fa-solid fa-network-wired"></i>
+      </a>
+      <a
+        href="#portfolio"
+        onClick={() => setActive('#portfolio')}
+        className={active === '#portfolio' ? 'active' : ''}
+      >
+        <i className="fa-solid fa-folder-open"></i>
+      </a>
+      <a
+        href="#testimonial"
+        onClick={() => setActive('#testimonial')}
+        className={active === '#testimonial' ? 'active' : ''}
+      >
+        <i className="fa-solid fa-comments"></i>
       </a>
       <a
         href="#contact"

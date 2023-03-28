@@ -20,10 +20,20 @@ export default function Portfolio() {
               <img src={d1} alt="porfolio-imag" />
             </div>
             <h3>This is a portfolio item title</h3>
-            <a href="https://adesoyeprofile.netlify.app" className="btn">
-              MyBio
+            <a
+              href="https://abusameergame.netlify.app"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Tenzies
             </a>
-            <a href="https://ayaweb.netlify.app" className="btn btn-primary">
+            <a
+              href="https://ayaweb.netlify.app"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </article>
@@ -35,10 +45,20 @@ export default function Portfolio() {
               <img src={d2} alt="porfolio-imag" />
             </div>
             <h3>This is a portfolio item title</h3>
-            <a href="https://adesoyeprofile.netlify.app" className="btn">
-              MyBio
+            <a
+              href="https://abusameergame.netlify.app"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Tenzies
             </a>
-            <a href="https://ayaweb.netlify.app" className="btn btn-primary">
+            <a
+              href="https://ayaweb.netlify.app"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </article>
@@ -50,10 +70,20 @@ export default function Portfolio() {
               <img src={d3} alt="porfolio-imag" />
             </div>
             <h3>This is a portfolio item title</h3>
-            <a href="https://adesoyeprofile.netlify.app" className="btn">
-              MyBio
+            <a
+              href="https://abusameergame.netlify.app"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Tenzies
             </a>
-            <a href="https://ayaweb.netlify.app" className="btn btn-primary">
+            <a
+              href="https://ayaweb.netlify.app"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </article>
@@ -65,10 +95,20 @@ export default function Portfolio() {
               <img src={d4} alt="porfolio-imag" />
             </div>
             <h3>This is a portfolio item title</h3>
-            <a href="https://adesoyeprofile.netlify.app" className="btn">
-              MyBio
+            <a
+              href="https://abusameergame.netlify.app"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Tenzies
             </a>
-            <a href="https://ayaweb.netlify.app" className="btn btn-primary">
+            <a
+              href="https://ayaweb.netlify.app"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </article>
@@ -80,10 +120,20 @@ export default function Portfolio() {
               <img src={d5} alt="porfolio-imag" />
             </div>
             <h3>This is a portfolio item title</h3>
-            <a href="https://adesoyeprofile.netlify.app" className="btn">
-              MyBio
+            <a
+              href="https://abusameergame.netlify.app"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Tenzies
             </a>
-            <a href="https://ayaweb.netlify.app" className="btn btn-primary">
+            <a
+              href="https://ayaweb.netlify.app"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </article>
@@ -95,10 +145,20 @@ export default function Portfolio() {
               <img src={d6} alt="porfolio-imag" />
             </div>
             <h3>This is a portfolio item title</h3>
-            <a href="https://adesoyeprofile.netlify.app" className="btn">
-              MyBio
+            <a
+              href="https://abusameergame.netlify.app"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Tenzies
             </a>
-            <a href="https://ayaweb.netlify.app" className="btn btn-primary">
+            <a
+              href="https://ayaweb.netlify.app"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </article>
