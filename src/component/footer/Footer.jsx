@@ -4,10 +4,10 @@ import './Footer.css';
 export default function Footer() {
   return (
     <footer>
-      <a href="#home" className="footer-logo">
+      <p className="footer-logo">
         Adesoye Yusuf Abolaji <br />
         (Abu-Sameer)
-      </a>
+      </p>
       <ul className="permalinks">
         <li>
           <a href="#home">Home</a> <i className="fa-solid fa-house"></i>

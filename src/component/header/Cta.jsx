@@ -8,7 +8,7 @@ export default function Cta() {
         Download CV
       </a>
       <a
-        href="https://ayaweb.netlify.app"
+        href="https://adesoyeprofile.netlify.app"
         className="btn btn-primary"
         target="_blank"
         rel="noreferrer"
